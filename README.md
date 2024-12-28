@@ -1,1 +1,1 @@
-Simples reverse proxy from scratch
+Simple reverse proxy from scratch
